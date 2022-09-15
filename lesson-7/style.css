@@ -12,8 +12,9 @@ a:visited {
    color: purple;
 }
 a:hover, a:focus {
-     /* color: hsl(189, 44%, 49%); */
+     /* color: hsl(207, 44%, 49%, 0.8); */
     opacity: 0.8;
+    background: gold;
 }
 a:active {
     color: red;
